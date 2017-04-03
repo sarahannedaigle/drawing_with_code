@@ -22,7 +22,7 @@ Activity 0: Get PyCharm, Python and PyGame Installed along with your Development
 
 1. Start with Python: Head over to https://www.python.org/
 2. Choose Development Environment: Thonny for Beginners or PyCharm for More Advanced Features
-3. Add 
+3. Add PyGame to the Available Libraries
 
 
 
@@ -36,6 +36,9 @@ Activity 1: Smiley Face or Emoji Face
 
 Activity 2: Bouquet of Flowers
 
+1. Create 3 Petals
+2. Color each Petal a different Color
+3. Add a Stem and 2 Leaves
 
 ###Bonus Activity: How does Python stack up against other languages & platforms?*
 
