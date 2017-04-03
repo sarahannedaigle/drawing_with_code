@@ -7,11 +7,10 @@
 
 -Help set the Framework for Writing Code
 
-##Instructor Notes
+Instructor Notes
 
--Students should be comfortable with some basic programming constructs such as variables, functions, arrays and loops.
--Installing tools may turn out to be a rabbit hole your class falls into if they are not comfortable getting around their machine. I suggest giving them 10-15 mintues to get setup as a class and move on with those who are ready to go ahead. Assign the first challenge and work with the others to get them caught up while the bulk of the class is self-directing.
--
+*Students should be comfortable with some basic programming constructs such as variables, functions, arrays and loops.
+*Installing tools may turn out to be a rabbit hole your class falls into if they are not comfortable getting around their machine. I suggest giving them 10-15 mintues to get setup as a class and move on with those who are ready to go ahead. Assign the first challenge and work with the others to get them caught up while the bulk of the class is self-directing.
 
 
 
